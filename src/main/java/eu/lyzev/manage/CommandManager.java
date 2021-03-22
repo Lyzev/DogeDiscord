@@ -134,8 +134,6 @@ public class CommandManager {
 
         this.commands.put("r6", new R6Command());
 
-        this.commands.put("nudes", new NudesCommand());
-
         this.commands.put("coinflip", new CoinflipCommand());
 
         this.commands.put("calc", new CalculatorCommand());
