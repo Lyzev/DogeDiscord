@@ -1,6 +1,6 @@
 # Doge Bot
 ## _Discord-Bot that makes your life funnier!_
-It contains many unique.
+It contains many unique features.
 
 ## Features
 
